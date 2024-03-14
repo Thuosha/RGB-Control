@@ -1,0 +1,17 @@
+This product is developed for typping who typping elements of the game into offline. Functionality is also not available for general malicious use as commercial transactions. 
+
+/////
+
+Source functionality [https://github.com/Thuosha/RGB-Control] of this modification.
+
+Credits & Support links:
+Vsevolod "ACT" Flovitskiy - Developer.
+Support [https://boosty.to/tasted]
+
+( I do not specialize in this field. I created it for other purposes!
+I cant guarantee without blocking your account in any apps or games )
+
+
+
+
+https://www.autohotkey.com/download/ahk-install.exe - then copy the code to the application
